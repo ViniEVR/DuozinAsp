@@ -1,23 +1,20 @@
 ﻿$prime: #7442BC
 $second: #242426
 $third: #f2f2f2
-
-*
-    box-sizing: border-box
-
-svg
-    position: absolute
-    top: -4000px
-    left: -4000px
-
+    
 #bubblesButton
+    box-sizing: border-box
     padding: 1rem
-    font-size: 3rem
+    padding-left: 2rem
+    padding-right: 2rem
+    font-size: 2rem
     border: none
     color: $third
     filter: url('#bubblesReference')
-    position: relative
+    position: absolute
     background-color: $prime
+    margin-top: 300px
+    
 
     &:focus
         outline: none
@@ -38,7 +35,7 @@ svg
             display: block
             z-index: -1
 
-            @for $bubble from 1 through 10
+            @for $bubble from 1 through 15
                 &:nth-child(#{$bubble})
                     $size: 25px
                     left: (random(90) + 10)+px
@@ -47,12 +44,12 @@ svg
                     animation: move-#{$bubble} #{3 + $bubble*0.02}s infinite
                     animation-delay: #{$bubble*0.2}s
                 
-@for $bubble from 1 through 10
+@for $bubble from 1 through 15
     @keyframes move-#{$bubble}
         0%
             transform: translate(0, 0)
         99%
-            transform: translate(0, -(random(80) + 50)+px)
+            transform: translate(0, -(random(90) + 50)+px)
         100%            
             transform: translate(0, 0)
             opacity: 0

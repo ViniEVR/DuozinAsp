@@ -21,9 +21,7 @@ C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\staticwebassets\msbui
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\scopedcss\bundle\Duozin.styles.css
-C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\scopedcss\projectbundle\Duozin.bundle.scp.css
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\Duozin.dll
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\refint\Duozin.dll
 C:\Users\vinim\source\repos\Duozin\Duozin\obj\Debug\net6.0\Duozin.pdb

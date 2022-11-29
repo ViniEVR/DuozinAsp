@@ -1,2 +1,7 @@
-﻿@import "button.min.css";
-@import "main.min.css";
+﻿@font-face {
+    font-family: 'Gotham';
+    src: url(../img/Gotham-Bold.otf);
+}
+@import "../lib/bootstrap/node_modules/bootstrap/scss/bootstrap.scss";
+@import "./button.sass";
+@import "./main.sass";
