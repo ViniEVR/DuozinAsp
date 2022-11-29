@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "wwwroot/sass/StyleSheet.css",
+    "inputFile": "wwwroot/sass/StyleSheet.scss"
+  },
+  {
+    "outputFile": "wwwroot/sass/style.css",
+    "inputFile": "wwwroot/sass/style.sass"
+  },
+  {
+    "outputFile": "wwwroot/sass/main.css",
+    "inputFile": "wwwroot/sass/main.sass"
+  },
+  {
+    "outputFile": "wwwroot/sass/style.css",
+    "inputFile": "wwwroot/sass/style.scss"
+  },
+  {
+    "outputFile": "wwwroot/sass/button.css",
+    "inputFile": "wwwroot/sass/button.sass"
+  }
+]
