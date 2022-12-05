@@ -18,7 +18,7 @@ namespace Duozin.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Personagens()
         {
             return View();
         }

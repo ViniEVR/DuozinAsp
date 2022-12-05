@@ -1,391 +1,387 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Cartão de Visitas-20221031T223444Z-001\\Cartão de Visitas\\CARTÃO DE VISITAS - 9X5 cm.ai",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Cartão de Visitas-20221031T223444Z-001\\Cartão de Visitas\\CARTÃO DE VISITAS - 9X5 cm.ai",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Cartão de Visitas-20221031T223444Z-001\\Cartão de Visitas\\CARTÃO DE VISITAS - 9X5 cm.ai"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE BRANCO - 900X900 pixels.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE PRETO - 900X900 pixels.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Icons-20221031T223909Z-001\\Icons\\ICONE ROXO - 900X900 pixels.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO VERTICAL.jpg",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO VERTICAL.jpg",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ALTERNATIVO VERTICAL.jpg"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\BRANCO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\PRETO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\JPG - COM FUNDO\\ROXO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ALTERNATIVO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\BRANCO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\PRETO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO HORIZONTAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO HORIZONTAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO HORIZONTAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO VERTICAL.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO VERTICAL.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\PNG - SEM FUNDO\\ROXO VERTICAL.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-HORIZONTAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-HORIZONTAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-HORIZONTAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-VERTICAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-VERTICAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ALTERNATIVO-VERTICAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-HORIZONTAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-HORIZONTAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-HORIZONTAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-VERTICAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-VERTICAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR BRANCO-VERTICAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-HORIZONTAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-HORIZONTAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-HORIZONTAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-VERTICAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-VERTICAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR PRETO-VERTICAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-HORIZONTAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-HORIZONTAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-HORIZONTAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-VERTICAL.pdf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-VERTICAL.pdf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Logo-20221031T223933Z-001\\Logo\\VETOR - PDF\\VETOR ROXO-VERTICAL.pdf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\APPLE - MOCKUP.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CARTÃO DE VISITAS - MOCKUP.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\CELULAR - MOCKUP.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\INTERFACE.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Mockups-20221031T223954Z-001\\Mockups\\OUTDOOR - MOCKUP.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOLD.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOLD.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOLD.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOOK.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOOK.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\BOOK.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\DEMI.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\DEMI.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\DEMI.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\LIGHT.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\LIGHT.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\LIGHT.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\MEDIUM.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\MEDIUM.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\ALL ROUND GOTHIC\\MEDIUM.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Black.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Black.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Black.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Bold.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Bold.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Bold.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-BookItalic.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-BookItalic.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-BookItalic.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Light.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Light.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Light.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Thin.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Thin.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-Thin.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-ThinItalic.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-ThinItalic.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-ThinItalic.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-UltraItalic.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-UltraItalic.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-UltraItalic.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLight.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLight.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLight.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLightItalic.otf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLightItalic.otf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\Gotham-XLightItalic.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBold.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBold.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBold.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBoldItalic.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBoldItalic.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBook.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBook.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBook.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBookItalic.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBookItalic.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamBookItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLight.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLight.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLight.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLightItalic.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLightItalic.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamLightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMediumItalic.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMediumItalic.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium_1.ttf",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium_1.ttf",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Pacote de Fontes-20221031T224135Z-001\\Pacote de Fontes\\GOTHAM\\GothamMedium_1.ttf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Post Carrossel.psd",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Post Carrossel.psd",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Post Carrossel.psd"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 1.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 1.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 1.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 2.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 2.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 2.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 3.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 3.png",
       "PackagePath": "staticwebassets\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 3.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Gotham-Bold.otf",
+      "PackagePath": "staticwebassets\\img\\Gotham-Bold.otf"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\fizz.png",
+      "PackagePath": "staticwebassets\\img\\fizz.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\bootstrap\\package-lock.json",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\bootstrap\\package-lock.json",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\package-lock.json"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\bootstrap\\package.json",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\bootstrap\\package.json",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\package.json"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\button.css",
-      "PackagePath": "staticwebassets\\sass\\button.css"
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\index.sass",
+      "PackagePath": "staticwebassets\\sass\\index.sass"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\button.min.css",
-      "PackagePath": "staticwebassets\\sass\\button.min.css"
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\indexButton.sass",
+      "PackagePath": "staticwebassets\\sass\\indexButton.sass"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\button.sass",
-      "PackagePath": "staticwebassets\\sass\\button.sass"
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\personagens.sass",
+      "PackagePath": "staticwebassets\\sass\\personagens.sass"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\main.css",
-      "PackagePath": "staticwebassets\\sass\\main.css"
-    },
-    {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\main.min.css",
-      "PackagePath": "staticwebassets\\sass\\main.min.css"
-    },
-    {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\main.sass",
-      "PackagePath": "staticwebassets\\sass\\main.sass"
-    },
-    {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\style.css",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\style.css",
       "PackagePath": "staticwebassets\\sass\\style.css"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\style.css.map",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\style.css.map",
       "PackagePath": "staticwebassets\\sass\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\style.min.css",
-      "PackagePath": "staticwebassets\\sass\\style.min.css"
-    },
-    {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\style.scss",
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Duozin
 build_property.RootNamespace = Duozin
-build_property.ProjectDir = C:\Users\vinim\source\repos\Duozin\duozin\
+build_property.ProjectDir = c:\Users\vinim\source\repos\Duozin\Duozin\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vinim\source\repos\Duozin\duozin
+build_property.MSBuildProjectDirectory = c:\Users\vinim\source\repos\Duozin\Duozin
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/Home/Index.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/Home/Personagens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJzb25hZ2Vucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/Shared/Error.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/Shared/_Layout.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/_ViewImports.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vinim/source/repos/Duozin/duozin/Views/_ViewStart.cshtml]
+[c:/Users/vinim/source/repos/Duozin/Duozin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
