@@ -285,12 +285,16 @@
       "PackagePath": "staticwebassets\\img\\Gotham-Bold.otf"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\fizz.png",
-      "PackagePath": "staticwebassets\\img\\fizz.png"
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logos\\logoHorizontal.png",
+      "PackagePath": "staticwebassets\\img\\logos\\logoHorizontal.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logos\\logoVertical.png",
+      "PackagePath": "staticwebassets\\img\\logos\\logoVertical.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\personagens\\fizz.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\fizz.png"
     },
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\js\\index.js",

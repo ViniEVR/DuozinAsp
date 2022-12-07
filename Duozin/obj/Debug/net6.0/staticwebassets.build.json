@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cfEca8xJmPA+cXT6wTk0brfGcOlr6Puh05sEU/D+woc=",
+  "Hash": "kx/KtdL7a2wc+qufpqW41rk10c9LxL+SklKA9vgxLUQ=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -1207,23 +1207,6 @@
       "OriginalItemSpec": "wwwroot\\img\\Duozin - Arquivos de img\\Post Carrossel-20221031T224219Z-001\\Post Carrossel\\Prancheta 3.png"
     },
     {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\fizz.png",
-      "SourceId": "Duozin",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\",
-      "BasePath": "_content/Duozin",
-      "RelativePath": "img/fizz.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fizz.png"
-    },
-    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\Gotham-Bold.otf",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1241,12 +1224,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Gotham-Bold.otf"
     },
     {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logos\\logoHorizontal.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\",
       "BasePath": "_content/Duozin",
-      "RelativePath": "img/logo.png",
+      "RelativePath": "img/logos/logoHorizontal.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,7 +1238,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+      "OriginalItemSpec": "wwwroot\\img\\logos\\logoHorizontal.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\logos\\logoVertical.png",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/logos/logoVertical.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logos\\logoVertical.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\img\\personagens\\fizz.png",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/fizz.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\fizz.png"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\wwwroot\\js\\index.js",

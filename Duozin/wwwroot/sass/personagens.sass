@@ -5,21 +5,80 @@ $primeWOpacity: rgb(116,66,188, 0.6)
 $seconWOpacity: rgb(36,36,38, 0.8)
 
 
-.listFighter 
-  display: grid
-  grid-template-columns: repeat(4, 1fr)
-  margin: 0 auto
-  gap: 40px 0px
-  justify-items: center
-  margin-top: 100px
+.headerContent
+    text-align: center
+    color: $prime
 
+    h3
+        margin-top: 250px
+
+.logoHorizontal
+    background-size: contain
+    margin-top: 80px
+    width: 650px
+    height: 400px
+
+.start
+    font-size: 15px
+    font-weight: bold
+    letter-spacing: 1px
+    padding: 5px 15px
+    background: #1e2328
+    color: #cdbe91
+    box-shadow: inset 0 0 2px #000000
+    border-image: linear-gradient(to bottom, #c8aa6d, #7a5c29)
+    border-image-slice: 1
+    border-width: 2px
+    margin-top: 210px
+
+    &:hover
+        text-shadow: none
+        box-shadow: none
+        color: #cdbe9130
+
+    &:active
+        text-shadow: none
+        box-shadow: none
+        color: #cdbe9130
+
+.backToTop
+    width: 40px
+    height: 40px
+    background-color: $prime
+    color: $third
+    position: fixed
+    margin-left: 1700px
+    border-radius: 10px
+    margin-top: 600px
+    border: 1px solid $third
+    display: none
+
+
+    &:hover
+        color: $prime
+        background-color: $third
+
+.showButton
+    display: block
+        
+
+    @media screen and (min-width: 2400px) 
+        margin-left: 2100px
+
+.listFighter 
+    display: grid
+    grid-template-columns: repeat(4, 1fr)
+    margin: 0 auto
+    gap: 40px 0px
+    justify-items: center
+    margin-top: 250px
 
 .cardFighter
     background-position: center
     background-repeat: no-repeat
     background-size: cover
-    height: 480px
-    width: 320px
+    height: 440px
+    width: 280px
     border-radius: 12px
     cursor: pointer
     box-shadow: inset 0 0 0 0 $primeWOpacity
