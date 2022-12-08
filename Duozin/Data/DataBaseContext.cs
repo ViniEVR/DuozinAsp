@@ -1,6 +1,8 @@
 using Duozin.Models;
 using Duozin.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
+using Duozin.Repositories.interfaces;
+using Duozin.Controllers;
 
 namespace Duozin.Data
 {
@@ -12,15 +14,19 @@ namespace Duozin.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
             modelBuilder.ApplyConfiguration(new MidConfiguration());
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-        {
+        {         
             options.UseSqlServer("Data source=(localdb)\\mssqllocaldb;Initial Catalog=Duozin; Integrated Security = true",p=>p.EnableRetryOnFailure(
                 maxRetryCount: 10, 
                 maxRetryDelay: TimeSpan.FromSeconds(5), 
                 errorNumbersToAdd: null).MigrationsHistoryTable("Duozin_ef"));
         }
+
+
+
     }
 }

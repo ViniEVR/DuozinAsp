@@ -1,4 +1,4 @@
-
+@model List<MidModel>;
 @{
     ViewData["Title"] = "Personagens";
 }
@@ -20,10 +20,10 @@
 
     <div class="container-md listFighter">
 
-        @for (var i = 0; i < 20; i++)
+        @foreach (var mid in Model)
         {
             <div id="cardSelecionado" onclick="LutadorSelecionado()" class="cardFighter"
-            style="background-image: url('../img/personagens/fizz.png');">
+            style="background-image: url('../img/personagens/@(mid.Name).png');">
                 <div class="contentHover">
                     <h4>Lutas</h4>
                     <h4>Vitórias</h4>
@@ -33,25 +33,25 @@
                 <div class="leftBar">
                     <div>
                         <h4>L</h4>
-                        <p>18</p>
+                        <p>@mid.Fights</p>
                     </div>
                     <div>
                         <h4>V</h4>
-                        <p>10</p>
+                        <p>@mid.Victories</p>
                     </div>
                     <div>
                         <h4>D</h4>
-                        <p>3</p>
+                        <p>@mid.Defeats</p>
                     </div>
                     <div>
                         <h4>AM</h4>
-                        <p>5</p>
+                        <p>@mid.MartialArts</p>
                     </div>
                 </div>
 
                 <div class="nomeIdade">
-                    <h1>Fizz</h1>
-                    <span>19 Anos</span>
+                    <h1>@mid.Name</h1>
+                    <span>@mid.Age Anos</span>
                 </div>
 
 

@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Duozin.Repositories.interfaces;
 using Duozin.Models;
+using Duozin.Data;
 
 
 
@@ -10,8 +11,10 @@ namespace Duozin.Controllers
     public class DuozinController : Controller
     {
 
+
         private readonly IMidRepository? _midRepository;
         private readonly IDuozinRepository? _duozinRepository;
+        
 
         public DuozinController(IMidRepository midRepository, IDuozinRepository duozinRepository)
         {

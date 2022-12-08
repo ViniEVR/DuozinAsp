@@ -16,8 +16,7 @@ namespace Duozin.Data.Configurations
             builder.Property(m => m.Fights).HasColumnType("INT").IsRequired();
             builder.Property(m => m.Defeats).HasColumnType("INT").IsRequired();
             builder.Property(m => m.Victories).HasColumnType("INT").IsRequired();
+            builder.Property(m => m.Description).HasColumnType("VARCHAR(500)").IsRequired();
         }
     }
-
-    
 }

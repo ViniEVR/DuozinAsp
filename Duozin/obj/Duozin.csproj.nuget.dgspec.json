@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\Duozin.csproj": {}
+    "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\Duozin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\Duozin.csproj": {
+    "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\Duozin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\Duozin.csproj",
+        "projectUniqueName": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\Duozin.csproj",
         "projectName": "Duozin",
-        "projectPath": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\Duozin.csproj",
+        "projectPath": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\Duozin.csproj",
         "packagesPath": "C:\\Users\\vinim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\obj\\",
+        "outputPath": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

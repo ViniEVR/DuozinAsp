@@ -35,6 +35,10 @@ namespace Duozin.Migrations
                     b.Property<int>("Defeats")
                         .HasColumnType("INT");
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("VARCHAR(500)");
+
                     b.Property<int>("Fights")
                         .HasColumnType("INT");
 

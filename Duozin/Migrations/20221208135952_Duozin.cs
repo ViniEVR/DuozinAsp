@@ -4,7 +4,7 @@
 
 namespace Duozin.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class Duozin : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -19,7 +19,8 @@ namespace Duozin.Migrations
                     MartialArts = table.Column<int>(type: "INT", nullable: false),
                     Fights = table.Column<int>(type: "INT", nullable: false),
                     Defeats = table.Column<int>(type: "INT", nullable: false),
-                    Victories = table.Column<int>(type: "INT", nullable: false)
+                    Victories = table.Column<int>(type: "INT", nullable: false),
+                    Description = table.Column<string>(type: "VARCHAR(500)", nullable: false)
                 },
                 constraints: table =>
                 {

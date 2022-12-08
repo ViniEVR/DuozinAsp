@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Duozin.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    [Migration("20221208032526_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20221208135952_Duozin")]
+    partial class Duozin
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -36,6 +36,10 @@ namespace Duozin.Migrations
 
                     b.Property<int>("Defeats")
                         .HasColumnType("INT");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("VARCHAR(500)");
 
                     b.Property<int>("Fights")
                         .HasColumnType("INT");

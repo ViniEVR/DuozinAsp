@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atJgXaMM39ApdEnDFww1todeYBIs/BuJ2zJqFS9HP3IstjK+xxv5GZ1+98Sna/kAqGTcg2v0aVDBSOeQcT3hCQ==",
+  "dgSpecHash": "RnPCr7FsG9fTOSeYJoGOJl9Jf+rSGiXjL3I2CB4dnKJwSxGmMU+mLGJBbWmiMqfmnzqlajbjsFRZlPhwp0DyEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinim\\source\\repos\\Duozin\\Duozin\\Duozin.csproj",
+  "projectFilePath": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\Duozin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vinim\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
