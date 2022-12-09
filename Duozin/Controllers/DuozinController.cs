@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Duozin.Repositories.interfaces;
+using Duozin.Repositories;
 using Duozin.Models;
 using Duozin.Data;
 

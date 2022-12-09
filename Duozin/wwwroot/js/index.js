@@ -1,5 +1,5 @@
-function LutadorSelecionado(){
-    var card = document.getElementById("cardSelecionado");
+function LutadorSelecionado(id){
+    var card = document.getElementById(id);
 
     if($(card).hasClass("selected")){
         card.classList.remove("selected");
