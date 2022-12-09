@@ -12,14 +12,13 @@
 
 </header>
 
-<button id="backTop" onclick="topFunction()" class="backToTop"> <i class='bx bx-chevron-up'></i></button>
+<button id="backTop" onclick="topFunction()" class="backToTop"><i class='bx bx-chevron-up'></i></button>
 
-<form action="post">
-    <button class="start position-absolute top-0 start-50 translate-middle">Iniciar</button>
+<form action="post" action="@Url.Action("StartDuozin", "Duozin")"> 
+    <button type="submit" class="start position-absolute top-0 start-50 translate-middle">Iniciar</button>
     
 
     <div class="container-md listFighter">
-
         @foreach (var mid in Model)
         {
             <div id="cardSelecionado" onclick="LutadorSelecionado()" class="cardFighter"
@@ -31,6 +30,7 @@
                     <h4>Artes Marciais</h4>
                 </div>
                 <div class="leftBar">
+                    <input class="checkbox" type="checkbox" Id="@mid.Id" name="@mid.Id" />
                     <div>
                         <h4>L</h4>
                         <p>@mid.Fights</p>

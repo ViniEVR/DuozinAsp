@@ -293,6 +293,14 @@
       "PackagePath": "staticwebassets\\img\\logos\\logoVertical.png"
     },
     {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Aurelion sol.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\Aurelion sol.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Lux.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\Lux.png"
+    },
+    {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ahri.png",
       "PackagePath": "staticwebassets\\img\\personagens\\ahri.png"
     },
@@ -309,8 +317,124 @@
       "PackagePath": "staticwebassets\\img\\personagens\\anivia.webp"
     },
     {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\azir.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\azir.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\cassiopeia.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\cassiopeia.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ekko.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\ekko.png"
+    },
+    {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\fizz.png",
       "PackagePath": "staticwebassets\\img\\personagens\\fizz.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\galio.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\galio.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\irelia.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\irelia.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\kassadin.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\kassadin.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\katarina.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\katarina.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\leblanc.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\leblanc.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\lissandra.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\lissandra.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\malzahar.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\malzahar.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\neeko.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\neeko.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\orianna.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\orianna.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\qiyana.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\qiyana.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ryze.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\ryze.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\swain.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\swain.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\sylas.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\sylas.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\syndra.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\syndra.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\taliyah.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\taliyah.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\talon.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\talon.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\twisted fate.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\twisted fate.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\veigar.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\veigar.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vex.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\vex.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\viktor.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\viktor.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vladimir.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\vladimir.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yasuo.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\yasuo.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yone.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\yone.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zed.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\zed.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ziggs.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\ziggs.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zoe.png",
+      "PackagePath": "staticwebassets\\img\\personagens\\zoe.png"
     },
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\js\\index.js",
