@@ -1,6 +1,23 @@
-
+@model MidModel;
 @{
     ViewData["Title"] = "Winner";
 }
 
-<h1>É isso</h1>
+<h1 style="color: magenta;">É isso</h1>
+
+@{
+    ViewData["Title"] = "Campeão";
+}
+
+
+<div style="color: magenta;"  class="cardVencedor">
+    <div>
+        <div class="headCardLutador">
+            <strong>@Model.Name</strong>
+        </div>
+        <strong>
+            Idade: @Model.Age
+            <br />
+            Total de Lutas: @Model.Fights
+            <br />
+    </div>

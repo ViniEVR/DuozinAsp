@@ -11,10 +11,8 @@ namespace Duozin.Controllers
 {
     public class DuozinController : Controller
     {
-
-
-        private readonly IMidRepository? _midRepository;
-        private readonly IDuozinRepository? _duozinRepository;
+        private readonly IMidRepository _midRepository;
+        private readonly IDuozinRepository _duozinRepository;
         
 
         public DuozinController(IMidRepository midRepository, IDuozinRepository duozinRepository)

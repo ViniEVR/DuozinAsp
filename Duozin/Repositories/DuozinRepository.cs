@@ -1,30 +1,38 @@
 using Duozin.Models;
 using System.Linq;
 using Duozin.Repositories.interfaces;
+using Duozin.Data;
 
 namespace Duozin.Repositories
 {
     public class DuozinRepository : IDuozinRepository 
     {
+        private readonly IMidRepository _midRepository;
+        private readonly DataBaseContext _dbContext;
+
+        public DuozinRepository(IMidRepository midRepository, DataBaseContext dbContext)
+        {
+            _midRepository = midRepository;
+            _dbContext = dbContext;
+        }
 
         public int CalcPercentVictories(MidModel mid)
         {
-            int percentVictories = 100 * mid.Victories / mid.Fights;
+            int percentVictories = (100 * mid.Victories) / mid.Fights;
             return percentVictories;
         }
 
         public MidModel GetDrawMid(MidModel mid1, MidModel mid2)
         {
             if(mid1.MartialArts > mid2.MartialArts)
-            {
                 return UpdateMid(mid1, mid2);
-            } else if (mid2.MartialArts > mid1.MartialArts)
-            {
+
+            if (mid2.MartialArts > mid1.MartialArts)
                 return UpdateMid(mid2, mid1);
-            } else 
-            {
+            else 
                 return UpdateMid(mid2, mid1);
-            }
+
+            return UpdateMid(mid1, mid2);
         }
 
         public MidModel GetWinnerMid(MidModel mid1, MidModel mid2)
@@ -33,14 +41,13 @@ namespace Duozin.Repositories
             int percentMid2 = CalcPercentVictories(mid2);
 
             if (percentMid1 == percentMid2)
-            {
                 return GetDrawMid(mid1, mid2);
-            } else if (percentMid1 > percentMid2)
-            {
+
+            if (percentMid1 > percentMid2)
                 return UpdateMid(mid1, mid2);
-            } else {
+            else 
                 return UpdateMid(mid2, mid1);
-            }
+            
         }
 
         public List<MidModel> Match(List<MidModel> mid)
@@ -56,30 +63,40 @@ namespace Duozin.Repositories
         }
 
 
-        public MidModel GetWinnerDuozin(List<MidModel> mid)
+        public MidModel GetWinnerDuozin(List<MidModel> mids)
         {
-            List<MidModel> winnersMidLane = mid;
+            List<MidModel> winnersMidLane = mids;
 
             for(int i = 0; i < 4; i++)
             {
                 winnersMidLane = Match(winnersMidLane);
             }
 
-            var winnerDuozin = winnersMidLane.FirstOrDefault();
+            return winnersMidLane.FirstOrDefault();
 
-            return winnerDuozin;
         }
 
 
         public List<MidModel> OrderByAge(List<MidModel> midId)
         {
-            List<MidModel> midsByAge = midId.OrderBy(X => X.Age).ToList();
+            List<MidModel> midsByAge = midId.OrderBy(x => x.Age).ToList();
             return midsByAge;
         } 
 
   
         public MidModel UpdateMid(MidModel midWinner, MidModel midLoser)
         {
+            midWinner.Fights++;
+            midWinner.Victories++;
+
+            midLoser.Fights++;
+            midLoser.Defeats++;
+
+            _dbContext.Update(midWinner);
+            _dbContext.Update(midLoser);
+
+            _dbContext.SaveChanges();
+
             return midWinner;
         }
     }

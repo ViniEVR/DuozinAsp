@@ -9,7 +9,7 @@ using Duozin.Controllers;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 builder.Services.AddDbContext<DataBaseContext>();
 builder.Services.AddTransient<IMidRepository, MidRepository>();
 builder.Services.AddTransient<IDuozinRepository, DuozinRepository>();

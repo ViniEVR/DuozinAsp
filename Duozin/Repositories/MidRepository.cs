@@ -7,7 +7,7 @@ namespace Duozin.Repositories
 {
     public class MidRepository : IMidRepository
     {
-        private readonly DataBaseContext? _dbContext;
+        private readonly DataBaseContext _dbContext;
         private readonly DbSet<MidModel> _dbSet;
 
         public MidRepository(DataBaseContext dbContext)
