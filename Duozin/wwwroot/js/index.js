@@ -19,11 +19,16 @@ function check(name) {
 
 function countCheckbox(){
     let checks = document.getElementsByClassName("selected").length
-    if(checks > 16 || checks < 16){
-        window.location.reload();
+    if(checks == 16 || checks == 32){
+        return true
+
+    }else{
+
         alert('Problema')
+        return false
     }
 }
+
 
 let button = document.getElementById("backTop")
 

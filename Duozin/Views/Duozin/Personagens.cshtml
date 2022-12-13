@@ -2,21 +2,23 @@
 @{
     ViewData["Title"] = "Personagens";
 }
-
 <header class="position-absolute top-0 start-50 translate-middle logoHorizontal"
     style="background-image: url('../img/logos/logoHorizontal.png');">
     <div class="headerContent">
 
         <h3>Selecione 16 Mid laners e inicie</h3>
-    </div>
 
+    </div>
 </header>
+
+<div class="notification">
+    <h3>Selecione mais 15 Mid laners</h3>
+</div>
 
 <button id="backTop" onclick="topFunction()" class="backToTop"><i class='bx bx-chevron-up'></i></button>
 
-<form method="post" action="@Url.Action("StartDuozin", "Duozin")">
-    <button onclick="countCheckbox()" type="submit" class="start position-absolute top-0 start-50 translate-middle">Iniciar</button>
-
+<form method="post" onsubmit="return countCheckbox();" action="@Url.Action("StartDuozin", "Duozin")">
+    <button type="submit" class="start position-absolute top-0 start-50 translate-middle">Iniciar</button>
 
     <div class="container-md listFighter">
         @foreach (var mid in Model)
@@ -59,3 +61,7 @@
         }
     </div>
 </form>
+
+<footer class="footer">
+    <h3>Vinícius</h3>
+</footer>
