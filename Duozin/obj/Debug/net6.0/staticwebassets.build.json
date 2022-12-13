@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8s4bFv7EqVwrS7bhW/IdgX2xUGaqZJjOlymMkzQCHn4=",
+  "Hash": "QNL/G9QYcH3+VQkEegO7DNRT2tkRNt5HB3sGWW9zXd0=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -1358,23 +1358,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\azir.png"
-    },
-    {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\BlueStacks10Installer_0.20.0.1039_native_b5c0dd19799ceb60b8f0d67cc2ea36e5_MDs1LDE7MTUsMzsxNQ==.exe",
-      "SourceId": "Duozin",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
-      "BasePath": "_content/Duozin",
-      "RelativePath": "img/personagens/BlueStacks10Installer_0.20.0.1039_native_b5c0dd19799ceb60b8f0d67cc2ea36e5_MDs1LDE7MTUsMzsxNQ==.exe",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\personagens\\BlueStacks10Installer_0.20.0.1039_native_b5c0dd19799ceb60b8f0d67cc2ea36e5_MDs1LDE7MTUsMzsxNQ==.exe"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\cassiopeia.png",
