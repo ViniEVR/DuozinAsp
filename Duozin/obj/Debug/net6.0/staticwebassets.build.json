@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QNL/G9QYcH3+VQkEegO7DNRT2tkRNt5HB3sGWW9zXd0=",
+  "Hash": "7Sv8IrcyQ9/DB8RVL2nOEpOf5c50Dcvm5HG8in08idE=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -1258,6 +1258,23 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\logoVertical.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\victory.png",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/logos/victory.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logos\\victory.png"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ahri.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -2259,6 +2276,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sass\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\winner.sass",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "sass/winner.sass",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\winner.sass"
     }
   ]
 }

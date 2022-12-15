@@ -10832,14 +10832,14 @@ textarea.form-control-lg {
   z-index: -1;
 }
 #bubblesButton .bubbles .bubble:nth-child(1) {
-  left: 60px;
+  left: 24px;
   width: 25px;
   height: 25px;
   animation: move-1 3.02s infinite;
   animation-delay: 0.2s;
 }
 #bubblesButton .bubbles .bubble:nth-child(2) {
-  left: 73px;
+  left: 94px;
   width: 25px;
   height: 25px;
   animation: move-2 3.04s infinite;
@@ -10853,84 +10853,84 @@ textarea.form-control-lg {
   animation-delay: 0.6s;
 }
 #bubblesButton .bubbles .bubble:nth-child(4) {
-  left: 65px;
+  left: 87px;
   width: 25px;
   height: 25px;
   animation: move-4 3.08s infinite;
   animation-delay: 0.8s;
 }
 #bubblesButton .bubbles .bubble:nth-child(5) {
-  left: 14px;
+  left: 87px;
   width: 25px;
   height: 25px;
   animation: move-5 3.1s infinite;
   animation-delay: 1s;
 }
 #bubblesButton .bubbles .bubble:nth-child(6) {
-  left: 44px;
+  left: 21px;
   width: 25px;
   height: 25px;
   animation: move-6 3.12s infinite;
   animation-delay: 1.2s;
 }
 #bubblesButton .bubbles .bubble:nth-child(7) {
-  left: 19px;
+  left: 64px;
   width: 25px;
   height: 25px;
   animation: move-7 3.14s infinite;
   animation-delay: 1.4s;
 }
 #bubblesButton .bubbles .bubble:nth-child(8) {
-  left: 83px;
+  left: 11px;
   width: 25px;
   height: 25px;
   animation: move-8 3.16s infinite;
   animation-delay: 1.6s;
 }
 #bubblesButton .bubbles .bubble:nth-child(9) {
-  left: 17px;
+  left: 24px;
   width: 25px;
   height: 25px;
   animation: move-9 3.18s infinite;
   animation-delay: 1.8s;
 }
 #bubblesButton .bubbles .bubble:nth-child(10) {
-  left: 66px;
+  left: 56px;
   width: 25px;
   height: 25px;
   animation: move-10 3.2s infinite;
   animation-delay: 2s;
 }
 #bubblesButton .bubbles .bubble:nth-child(11) {
-  left: 92px;
+  left: 64px;
   width: 25px;
   height: 25px;
   animation: move-11 3.22s infinite;
   animation-delay: 2.2s;
 }
 #bubblesButton .bubbles .bubble:nth-child(12) {
-  left: 46px;
+  left: 45px;
   width: 25px;
   height: 25px;
   animation: move-12 3.24s infinite;
   animation-delay: 2.4s;
 }
 #bubblesButton .bubbles .bubble:nth-child(13) {
-  left: 31px;
+  left: 35px;
   width: 25px;
   height: 25px;
   animation: move-13 3.26s infinite;
   animation-delay: 2.6s;
 }
 #bubblesButton .bubbles .bubble:nth-child(14) {
-  left: 55px;
+  left: 16px;
   width: 25px;
   height: 25px;
   animation: move-14 3.28s infinite;
   animation-delay: 2.8s;
 }
 #bubblesButton .bubbles .bubble:nth-child(15) {
-  left: 48px;
+  left: 39px;
   width: 25px;
   height: 25px;
   animation: move-15 3.3s infinite;
@@ -10942,7 +10942,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -119px);
+    transform: translate(0, -127px);
   }
   100% {
     transform: translate(0, 0);
@@ -10954,7 +10954,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -113px);
+    transform: translate(0, -92px);
   }
   100% {
     transform: translate(0, 0);
@@ -10966,7 +10966,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -78px);
+    transform: translate(0, -79px);
   }
   100% {
     transform: translate(0, 0);
@@ -10978,7 +10978,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -67px);
+    transform: translate(0, -105px);
   }
   100% {
     transform: translate(0, 0);
@@ -10990,7 +10990,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -112px);
+    transform: translate(0, -126px);
   }
   100% {
     transform: translate(0, 0);
@@ -11002,7 +11002,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -87px);
+    transform: translate(0, -119px);
   }
   100% {
     transform: translate(0, 0);
@@ -11014,7 +11014,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -65px);
+    transform: translate(0, -93px);
   }
   100% {
     transform: translate(0, 0);
@@ -11026,7 +11026,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -114px);
+    transform: translate(0, -110px);
   }
   100% {
     transform: translate(0, 0);
@@ -11038,7 +11038,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -138px);
+    transform: translate(0, -130px);
   }
   100% {
     transform: translate(0, 0);
@@ -11050,7 +11050,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -97px);
+    transform: translate(0, -86px);
   }
   100% {
     transform: translate(0, 0);
@@ -11062,7 +11062,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -102px);
+    transform: translate(0, -92px);
   }
   100% {
     transform: translate(0, 0);
@@ -11074,7 +11074,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -135px);
+    transform: translate(0, -126px);
   }
   100% {
     transform: translate(0, 0);
@@ -11086,7 +11086,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -127px);
+    transform: translate(0, -105px);
   }
   100% {
     transform: translate(0, 0);
@@ -11098,7 +11098,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -125px);
+    transform: translate(0, -64px);
   }
   100% {
     transform: translate(0, 0);
@@ -11110,7 +11110,7 @@ textarea.form-control-lg {
     transform: translate(0, 0);
   }
   99% {
-    transform: translate(0, -90px);
+    transform: translate(0, -86px);
   }
   100% {
     transform: translate(0, 0);
@@ -11344,6 +11344,100 @@ body {
   100% {
     opacity: 1;
   }
+}
+.logoVictory {
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 500px;
+  width: 1250px;
+  height: 1060px;
+}
+
+.headerContent-Winner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentWinner {
+  display: grid;
+  text-align: center;
+  background-color: rgba(116, 66, 188, 0.6);
+  margin-top: 25%;
+  border-radius: 12px;
+}
+.contentWinner h1, .contentWinner .h1 {
+  font-size: 100px;
+  -webkit-text-stroke: 1px #7442BC;
+}
+.contentWinner h2, .contentWinner .h2 {
+  color: #7442BC;
+  font-size: 30px;
+  margin-left: 10%;
+  width: 1000px;
+  background-color: rgba(36, 36, 38, 0.8);
+}
+
+.bottomBar {
+  background-color: cyan;
+}
+
+.hextech-button {
+  height: 60px;
+  width: 360px;
+  margin-top: 50%;
+  color: #c7b184;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 0 28px #000;
+  transition: 0.15s;
+  user-select: none;
+}
+.hextech-button:before {
+  box-sizing: inherit;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(0deg, #72542a 0, #bd9e5e 100%);
+  z-index: -1;
+}
+.hextech-button:after {
+  box-sizing: inherit;
+  background: #16181d;
+  content: "";
+  display: block;
+  margin: 2px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+.hextech-button:hover:after {
+  background: #1a1d21;
+}
+.hextech-button:hover {
+  color: #fff;
+}
+
+.imgWinner {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cardVencedor {
+  color: #7442BC;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -293,6 +293,10 @@
       "PackagePath": "staticwebassets\\img\\logos\\logoVertical.png"
     },
     {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\victory.png",
+      "PackagePath": "staticwebassets\\img\\logos\\victory.png"
+    },
+    {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Aurelion sol.png",
       "PackagePath": "staticwebassets\\img\\personagens\\Aurelion sol.png"
     },
@@ -527,6 +531,10 @@
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\winner.sass",
+      "PackagePath": "staticwebassets\\sass\\winner.sass"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Duozin.Microsoft.AspNetCore.StaticWebAssets.props",
