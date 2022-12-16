@@ -4,10 +4,10 @@ $third: #f2f2f2
 $primeWOpacity: rgb(116,66,188, 0.6)
 $seconWOpacity: rgb(36,36,38, 0.8)
 
-
 .headerContent
     text-align: center
     color: $prime
+    z-index: -1
 
     h3
         margin-top: 150px
@@ -20,24 +20,31 @@ $seconWOpacity: rgb(36,36,38, 0.8)
     height: 400px
 
 .notification
+    z-index: 1
     height: 75px
     width: 200px
     position: fixed
     display: none
     background-color: $prime
     color: $third
-    margin-top: 610px
+    margin-left: 0px
+    margin-top: 860px
     h3
         font-size: 1rem
         text-align: center
         margin-top: 20px
-        
+
+.startButton
+    display: flex
+    justify-content: center
+    align-content: center
 
 .start
+    z-index: 1
     font-size: 15px
     font-weight: bold
     letter-spacing: 1px
-    padding: 5px 15px
+    padding: 5px 20px
     background: #1e2328
     color: #cdbe91
     box-shadow: inset 0 0 2px #000000
@@ -64,7 +71,7 @@ $seconWOpacity: rgb(36,36,38, 0.8)
     position: fixed
     margin-left: 1700px
     border-radius: 10px
-    margin-top: 600px
+    margin-top: 830px
     border: 1px solid $third
     display: none
     @media screen and (min-width: 2400px)  
@@ -89,7 +96,7 @@ $seconWOpacity: rgb(36,36,38, 0.8)
     margin: 0 auto
     gap: 40px 0px
     justify-items: center
-    margin-top: 250px
+    margin-top: 50px
 
 .cardFighter
     background-position: center

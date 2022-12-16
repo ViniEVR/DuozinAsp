@@ -12,13 +12,6 @@
 </header>
 
 
-<aside class="menuLateral">
-    <li><i class='bx bxs-home'></i> <p>Home</p> </li>
-    <li><i class='bx bxs-grid'></i> <p>Duozin?</p> </li>
-    <li><i class='bx bx-list-ul'></i> <p> Personagens</p></li>
-</aside>
-
-
 <div id="notification" class="notification">
     <h3 id="fightersCheckedN">Selecione mais 16 Mid laners</h3>
 </div>
@@ -26,7 +19,10 @@
 <button id="backTop" onclick="topFunction()" class="backToTop"><i class='bx bx-chevron-up'></i></button>
 
 <form method="post" onsubmit="return countCheckbox();" action="@Url.Action("StartDuozin", "Duozin")">
-    <button type="submit" class="start position-absolute top-0 start-50 translate-middle">Iniciar</button>
+    <div class="startButton">
+        <button type="submit" class="start">Iniciar</button>
+    </div>
+    
 
     <div class="container-md listFighter">
         @foreach (var mid in Model)

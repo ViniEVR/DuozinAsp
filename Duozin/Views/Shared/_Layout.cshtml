@@ -1,21 +1,44 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="~/sass/style.css" asp-append-version="true" />
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
 </head>
+
 <body>
-     <main role="main" class="pb-3">
-           @RenderBody()
-     </main>
+    <aside class="menuLateral">
+        <a asp-area="" asp-controller="Duozin" asp-action="Index">
+            <li><i class='bx bxs-home'></i>
+                <p>Home</p>
+            </li>
+        </a>
+        <a asp-area="" asp-controller="Duozin" asp-action="Personagens">
+            <li><i class='bx bxs-grid'></i>
+                <p>Duozin?</p>
+            </li>
+        </a>
+
+        <a asp-area="" asp-controller="Duozin" asp-action="Index">
+            <li><i class='bx bx-list-ul'></i>
+                <p>Personagens</p>
+            </li>
+        </a>
+    </aside>
+
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/index.js"></script>
     <script src="~/lib/bootstrap/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+
 </html>
