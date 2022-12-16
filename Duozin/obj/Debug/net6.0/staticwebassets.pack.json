@@ -285,6 +285,10 @@
       "PackagePath": "staticwebassets\\img\\Gotham-Bold.otf"
     },
     {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\Moon.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\Moon.svg"
+    },
+    {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\logoHorizontal.png",
       "PackagePath": "staticwebassets\\img\\logos\\logoHorizontal.png"
     },
@@ -295,6 +299,10 @@
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\victory.png",
       "PackagePath": "staticwebassets\\img\\logos\\victory.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\vitoria.png",
+      "PackagePath": "staticwebassets\\img\\logos\\vitoria.png"
     },
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Aurelion sol.png",
@@ -317,12 +325,12 @@
       "PackagePath": "staticwebassets\\img\\personagens\\anivia.png"
     },
     {
-      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\anivia.webp",
-      "PackagePath": "staticwebassets\\img\\personagens\\anivia.webp"
-    },
-    {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\azir.png",
       "PackagePath": "staticwebassets\\img\\personagens\\azir.png"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\azirW.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\azirW.jpg"
     },
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\cassiopeia.png",
@@ -515,6 +523,10 @@
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\indexButton.sass",
       "PackagePath": "staticwebassets\\sass\\indexButton.sass"
+    },
+    {
+      "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\modal.scss",
+      "PackagePath": "staticwebassets\\sass\\modal.scss"
     },
     {
       "Id": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\personagens.sass",

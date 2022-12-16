@@ -6,13 +6,21 @@
     style="background-image: url('../img/logos/logoHorizontal.png');">
     <div class="headerContent">
 
-        <h3>Selecione 16 Mid laners e inicie</h3>
+        <h3 id="fightersChecked">Selecione 16 Mid laners e inicie</h3>
 
     </div>
 </header>
 
-<div class="notification">
-    <h3>Selecione mais 15 Mid laners</h3>
+
+<aside class="menuLateral">
+    <li><i class='bx bxs-home'></i> <p>Home</p> </li>
+    <li><i class='bx bxs-grid'></i> <p>Duozin?</p> </li>
+    <li><i class='bx bx-list-ul'></i> <p> Personagens</p></li>
+</aside>
+
+
+<div id="notification" class="notification">
+    <h3 id="fightersCheckedN">Selecione mais 16 Mid laners</h3>
 </div>
 
 <button id="backTop" onclick="topFunction()" class="backToTop"><i class='bx bx-chevron-up'></i></button>
@@ -23,8 +31,8 @@
     <div class="container-md listFighter">
         @foreach (var mid in Model)
         {
-            <div id="@mid.Id" class="cardFighter" onclick="LutadorSelecionado(@mid.Id); check('@mid.Name')" style="background-image: url('../img/personagens/@(mid.Name).png');"
-            data-cardSelect>
+            <div id="@mid.Id" class="cardFighter" onclick="LutadorSelecionado(@mid.Id); check('@mid.Name')"
+            style="background-image: url('../img/personagens/@(mid.Name).png');" data-cardSelect>
                 <div class="contentHover">
                     <h4>Lutas</h4>
                     <h4>Vitórias</h4>
@@ -32,7 +40,7 @@
                     <h4>Artes Marciais</h4>
                 </div>
                 <div class="leftBar">
-                    <input style="display: none;" type="checkbox" Id="@mid.Name" name="@mid.Id"/>
+                    <input style="display: none;" type="checkbox" Id="@mid.Name" name="@mid.Id" />
                     <div>
                         <h4>L</h4>
                         <p>@mid.Fights</p>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Sv8IrcyQ9/DB8RVL2nOEpOf5c50Dcvm5HG8in08idE=",
+  "Hash": "pUe2d0qvm0hFpSI4WDl76LGOkXdp27RX7Dqr1EdkBao=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -1258,6 +1258,23 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\logoVertical.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\Moon.svg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/logos/Moon.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logos\\Moon.svg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\victory.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1273,6 +1290,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logos\\victory.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\vitoria.png",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/logos/vitoria.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logos\\vitoria.png"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ahri.png",
@@ -1326,23 +1360,6 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\anivia.png"
     },
     {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\anivia.webp",
-      "SourceId": "Duozin",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
-      "BasePath": "_content/Duozin",
-      "RelativePath": "img/personagens/anivia.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\personagens\\anivia.webp"
-    },
-    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Aurelion sol.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1375,6 +1392,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\azir.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\azirW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/azirW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\azirW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\cassiopeia.png",
@@ -2208,6 +2242,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sass\\indexButton.sass"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\modal.scss",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "sass/modal.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\modal.scss"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\personagens.sass",
