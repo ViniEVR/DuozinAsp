@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pUe2d0qvm0hFpSI4WDl76LGOkXdp27RX7Dqr1EdkBao=",
+  "Hash": "kRg8pGfPfQ3dAjU6WXcBguafNRpYU27pc4wu15G3N2A=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -1258,23 +1258,6 @@
       "OriginalItemSpec": "wwwroot\\img\\logos\\logoVertical.png"
     },
     {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\Moon.svg",
-      "SourceId": "Duozin",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
-      "BasePath": "_content/Duozin",
-      "RelativePath": "img/logos/Moon.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logos\\Moon.svg"
-    },
-    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\logos\\victory.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1326,6 +1309,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\ahri.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ahriW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/ahriW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\ahriW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\akali.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1341,6 +1341,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\akali.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\akaliW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/akaliW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\akaliW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\anivia.png",
@@ -1360,6 +1377,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\anivia.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\aniviaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/aniviaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\aniviaW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Aurelion sol.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1375,6 +1409,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\Aurelion sol.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\aurelion solW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/aurelion solW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\aurelion solW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\azir.png",
@@ -1428,6 +1479,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\cassiopeia.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\cassiopeiaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/cassiopeiaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\cassiopeiaW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ekko.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1443,6 +1511,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\ekko.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ekkoW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/ekkoW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\ekkoW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\fizz.png",
@@ -1462,6 +1547,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\fizz.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\fizzW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/fizzW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\fizzW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\galio.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1477,6 +1579,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\galio.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\galioW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/galioW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\galioW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\irelia.png",
@@ -1496,6 +1615,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\irelia.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ireliaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/ireliaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\ireliaW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\kassadin.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1511,6 +1647,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\kassadin.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\kassadinW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/kassadinW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\kassadinW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\katarina.png",
@@ -1530,6 +1683,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\katarina.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\katarinaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/katarinaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\katarinaW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\leblanc.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1545,6 +1715,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\leblanc.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\leblancW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/leblancW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\leblancW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\lissandra.png",
@@ -1564,6 +1751,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\lissandra.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\lissandraW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/lissandraW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\lissandraW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\Lux.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1579,6 +1783,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\Lux.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\luxW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/luxW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\luxW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\malzahar.png",
@@ -1598,6 +1819,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\malzahar.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\malzaharW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/malzaharW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\malzaharW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\neeko.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1613,6 +1851,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\neeko.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\neekoW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/neekoW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\neekoW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\orianna.png",
@@ -1632,6 +1887,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\orianna.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\oriannaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/oriannaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\oriannaW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\qiyana.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1647,6 +1919,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\qiyana.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\qiyanaW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/qiyanaW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\qiyanaW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ryze.png",
@@ -1666,6 +1955,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\ryze.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ryzeW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/ryzeW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\ryzeW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\swain.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1681,6 +1987,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\swain.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\swainW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/swainW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\swainW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\sylas.png",
@@ -1700,6 +2023,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\sylas.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\sylasW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/sylasW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\sylasW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\syndra.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1715,6 +2055,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\syndra.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\syndraW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/syndraW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\syndraW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\taliyah.png",
@@ -1734,6 +2091,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\taliyah.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\taliyahW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/taliyahW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\taliyahW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\talon.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1749,6 +2123,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\talon.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\talonW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/talonW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\talonW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\twisted fate.png",
@@ -1768,6 +2159,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\twisted fate.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\twisted fateW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/twisted fateW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\twisted fateW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\veigar.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1783,6 +2191,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\veigar.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\veigarW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/veigarW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\veigarW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vex.png",
@@ -1802,6 +2227,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\vex.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vexW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/vexW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\vexW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\viktor.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1817,6 +2259,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\viktor.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\viktorW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/viktorW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\viktorW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vladimir.png",
@@ -1836,6 +2295,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\vladimir.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\vladimirW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/vladimirW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\vladimirW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yasuo.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1851,6 +2327,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\yasuo.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yasuoW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/yasuoW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\yasuoW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yone.png",
@@ -1870,6 +2363,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\yone.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\yoneW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/yoneW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\yoneW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zed.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1885,6 +2395,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\zed.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zedW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/zedW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\zedW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ziggs.png",
@@ -1904,6 +2431,23 @@
       "OriginalItemSpec": "wwwroot\\img\\personagens\\ziggs.png"
     },
     {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\ziggsW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/ziggsW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\ziggsW.jpg"
+    },
+    {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zoe.png",
       "SourceId": "Duozin",
       "SourceType": "Discovered",
@@ -1919,6 +2463,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\personagens\\zoe.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\img\\personagens\\zoeW.jpg",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "img/personagens/zoeW.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\personagens\\zoeW.jpg"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\js\\index.js",
@@ -2242,6 +2803,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sass\\indexButton.sass"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\list.sass",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "sass/list.sass",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\list.sass"
+    },
+    {
+      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\menu.sass",
+      "SourceId": "Duozin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
+      "BasePath": "_content/Duozin",
+      "RelativePath": "sass/menu.sass",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sass\\menu.sass"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\modal.scss",

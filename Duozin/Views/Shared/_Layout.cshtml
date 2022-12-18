@@ -12,22 +12,31 @@
 
 <body>
     <aside class="menuLateral">
-        <a asp-area="" asp-controller="Duozin" asp-action="Index">
-            <li><i class='bx bxs-home'></i>
-                <p>Home</p>
-            </li>
-        </a>
-        <a asp-area="" asp-controller="Duozin" asp-action="Personagens">
-            <li><i class='bx bxs-grid'></i>
-                <p>Duozin?</p>
-            </li>
-        </a>
 
-        <a asp-area="" asp-controller="Duozin" asp-action="Index">
-            <li><i class='bx bx-list-ul'></i>
+        <li>
+            <a asp-area="" asp-controller="Duozin" asp-action="Index">
+
+                <i class='bx bxs-home'></i>
+                <p>Home</p>
+            </a>
+        </li>
+
+
+        <li>
+            <a asp-area="" asp-controller="Duozin" asp-action="Personagens">
+                <i class='bx bxs-grid'></i>
+
+                <p>Duozin?</p>
+            </a>
+        </li>
+
+
+        <li>
+            <a asp-area="" asp-controller="Duozin" asp-action="List">
+                <i class='bx bx-list-ul'></i>
                 <p>Personagens</p>
-            </li>
-        </a>
+            </a>
+        </li>
     </aside>
 
     <main role="main" class="pb-3">

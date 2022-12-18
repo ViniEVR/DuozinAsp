@@ -27,7 +27,7 @@
     <div class="container-md listFighter">
         @foreach (var mid in Model)
         {
-            <div id="@mid.Id" class="cardFighter" onclick="LutadorSelecionado(@mid.Id); check('@mid.Name')"
+            <div id="@mid.Id" class="cardFighter" onclick="check('@mid.Name'); LutadorSelecionado(@mid.Id) "
             style="background-image: url('../img/personagens/@(mid.Name).png');" data-cardSelect>
                 <div class="contentHover">
                     <h4>Lutas</h4>

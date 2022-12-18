@@ -32,6 +32,12 @@ namespace Duozin.Controllers
             return View(mids);
         }
 
+        public IActionResult List()
+        {
+            var mids = _midRepository.GetMidList();
+            return View(mids);
+        }
+
         [HttpPost]
         public IActionResult StartDuozin(IFormCollection mids)
         {
@@ -42,6 +48,8 @@ namespace Duozin.Controllers
 
             return View("Winner", winner);
         }
+
+
          
         public IActionResult Winner(int id)
         {

@@ -1,17 +1,32 @@
 let countFighters = 16;
 
 function LutadorSelecionado(id) {
+    let checks = document.getElementsByClassName("selected").length
+
     let card = document.getElementById(id);
     let fightersChecked = $("#fightersChecked")
     let fightersCheckedN =  $("#fightersCheckedN")
 
-    if ($(card).hasClass("selected")) {
-        card.classList.remove("selected");
-        countFighters++;
-    } else {
-        card.classList.add("selected");
-        countFighters--;
+
+    if(checks >= 16){
+        if ($(card).hasClass("selected")) {
+            card.classList.remove("selected");
+            countFighters++;
+        } else{
+            alert('Você já selecionou os 16 Mid laners!')
+            return;
+        }
+        
+    } else{
+        if ($(card).hasClass("selected")) {
+            card.classList.remove("selected");
+            countFighters++;
+        } else {
+            card.classList.add("selected");
+            countFighters--;
+        }
     }
+    
 
     fightersChecked.text(`Selecione ${countFighters} Mid laners e inicie`);
     fightersCheckedN.text(`Selecione mais ${countFighters} Mid laners`);
@@ -24,13 +39,25 @@ function LutadorSelecionado(id) {
 }
 
 function check(name) {
+    let checks = document.getElementsByClassName("selected").length
+
     let checkBox = document.getElementById(name);
 
-    if (checkBox.checked == false) {
-        checkBox.checked = true;
-    } else {
-        checkBox.checked = false;
+    if(checks == 16){
+        if (checkBox.checked == true) {
+            checkBox.checked = false;
+        } 
+        return;
+    } else{
+        if (checkBox.checked == false) {
+            checkBox.checked = true;
+        } else {
+            checkBox.checked = false;
+        }
     }
+
+    
+    
 }
 
 function countCheckbox() {
