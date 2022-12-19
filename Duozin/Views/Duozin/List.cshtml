@@ -1,0 +1,51 @@
+@model List<MidModel>;
+@{
+    ViewData["Title"] = "Lista de personagens";
+}
+<header class="position-absolute top-0 start-50 translate-middle logoList"
+    style="background-image: url('../img/logos/logoVertical.png');">
+</header>
+
+
+<button id="backTop" onclick="topFunction()" class="backToTop"><i class='bx bx-chevron-up'></i></button>
+
+
+<div class="container-md">
+    <div class="listMids row">
+        @foreach (var mid in Model)
+        {
+            <div class="rowListMid">
+                <div id="@mid.Id" class="contentListMid"
+                style="background-image: url('../img/personagens/square/@(mid.Name)Square.webp');">
+                    <p>Nome: @mid.Name</p>
+                    <p style="margin-top: -15px;" class="idade">Idade: @mid.Age</p>
+                    <p style="margin-top: -15px;">Lutas: @mid.Fights</p>
+                    <p style="margin-top: -15px;">Vitórias: @mid.Victories</p>
+                    <p style="margin-top: -15px;">Derrotas: @mid.Defeats</p>
+
+                    @{
+                        string nomeMinusculo = @mid.Name.ToLower().Replace(" ", "-");
+                    }
+
+                    <div class="descricao">
+                        <a href="https://www.leagueoflegends.com/pt-br/champions/@nomeMinusculo/" target="_blank"><i
+                            class='bx bx-right-arrow-alt' title="Clique aqui para ver mais detalhes do personagem"></i></a>
+
+                        <p style="margin-top: -40px; font-size: 20px">Frase de efeito</p>
+
+                        <p style="font-size: 15px;">@mid.Description</p>
+
+                    </div>
+
+
+
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+<footer class="footer">
+    <h3>Duozin?</h3>
+</footer>
