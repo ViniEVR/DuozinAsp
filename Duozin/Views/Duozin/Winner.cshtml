@@ -6,33 +6,54 @@
 <div>
     <img style="filter: brightness(15%); background-image: url('../img/personagens/@(Model.Name)w.jpg'); "
         class="imgWinner">
-    <span class="position-absolute top-0 start-50 translate-middle logoVictory"
+    <span class="position-absolute  start-50 translate-middle logoVictory"
         style="background-image: url('../img/logos/victory.png');">
         <div class="headerContent-Winner">
-            <div class="hextech-button">Visualizar vencedor</div>
+            <div onClick='window.location="#suporte"'class="hextech-button">Visualizar vencedor</div>
         </div>
-        <div class="contentWinner">
+
+        @{
+            string nomeMinusculo = @Model.Name.ToLower().Replace(" ", "-");
+        }
+
+        <div class="contentWinner position-absolute start-50 translate-middle">
+            <div class="imgCircleWinner"
+                style="background-image: url('../img/personagens/square/@(Model.Name)Square.webp');">
+                <a href="https://www.leagueoflegends.com/pt-br/champions/@nomeMinusculo/" target="_blank"><i
+                            class='bx bx-right-arrow-alt' title="Clique aqui para ver mais detalhes do personagem"></i></a>
+            </div>
+
             <h1> @Model.Name</h1>
             <h2>@Model.Description</h2>
+            <div class="imgFocusWinner">
+                <img cla src="../img/personagens/@(Model.Name)W.jpg" />
+            </div>
+
+
 
             <div class="bottomBar">
-                <div>
+                <div class="alignCel">
                     <h4>L</h4>
                     <p>@Model.Fights</p>
                 </div>
-                <div>
+                <div class="alignCel">
                     <h4>V</h4>
                     <p>@Model.Victories</p>
                 </div>
-                <div>
+                <div class="alignCel">
                     <h4>D</h4>
                     <p>@Model.Defeats</p>
                 </div>
-                <div>
+                <div class="alignCel">
                     <h4>AM</h4>
                     <p>@Model.MartialArts</p>
                 </div>
             </div>
         </div>
+        <footer id="suporte">
+            <h1>@Model.Age</h1>
+        </footer>
     </span>
+
+
 </div>
