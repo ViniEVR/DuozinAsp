@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1fkr6sG3GgQeLwlLRrqyUSiauFrYYH4E4/Y1LrQ/Ex4=",
+  "Hash": "cXsjaRMYiosUu3FAc2TBUAcI0hAFJfBSLCq9H6CRgv8=",
   "Source": "Duozin",
   "BasePath": "_content/Duozin",
   "Mode": "Default",
@@ -3432,23 +3432,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sass\\menu.sass"
-    },
-    {
-      "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\modal.scss",
-      "SourceId": "Duozin",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\",
-      "BasePath": "_content/Duozin",
-      "RelativePath": "sass/modal.scss",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sass\\modal.scss"
     },
     {
       "Identity": "C:\\Users\\vinim\\source\\repos\\Duozin\\duozin\\wwwroot\\sass\\personagens.sass",
