@@ -1,6 +1,6 @@
 # 👾 Projeto semana 11 e 12 - Duozin 👾 #
 ## 1 - Preparando o DB 💾
-#
+
 ###  Para iniciar o projeto você vai precisar importar no localdb o arquivo 'Duozin.bak' presente na pasta 'Banco de dados'
 ![Duozin](Img/banco.png)
 
@@ -12,7 +12,6 @@ Quando configurar o LocalDB certifique-se de que está nessa instância ou mude 
 
 ## 2 - Executando o projeto 💡
 
-#
 ### O projeto foi feito utilizando .NET 6 então certifique-se de utilizar o VSCode ou o Visual Studio 2022 ou posterior(Não funcionará no 2019 ou anteriores).🤬
 #
 
@@ -25,9 +24,6 @@ Quando configurar o LocalDB certifique-se de que está nessa instância ou mude 
 #
 
 ## 3 - Utilizando 🌠
-
-#
-
 
 ### Siga as instruções do app e o caminho feliz ocorrerá.
 #
@@ -47,7 +43,6 @@ Quando configurar o LocalDB certifique-se de que está nessa instância ou mude 
 
 ## 4 - Considerações 🤠
 
-#
 
 ### Caso você esteja tendo algum problema de exceptios certifique-se de que importou o banco corretamente, caso tenha importado veja se o javascript do seu navegador está ativo e limpe o cache do mesmo.😶
 
