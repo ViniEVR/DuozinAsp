@@ -1,4 +1,4 @@
-# 👾 Projeto semana 11 e 12 - Duozin 👾 #
+# 👾 Duozin 👾 #
 ## 1 - Preparando o DB 💾
 
 ###  Para iniciar o projeto você vai precisar importar no localdb o arquivo 'Duozin.bak' presente na pasta 'Banco de dados'
